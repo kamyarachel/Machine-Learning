@@ -5,11 +5,11 @@ Welcome to my machine learning (ML) projects repository! This repository is a cu
 🤖 Explore Diverse Projects:
 Dive into a wide range of ML projects covering different domains and use cases, including but not limited to:
 
-Predictive modeling
-Classification tasks
-Regression analysis
-Clustering algorithms
-Natural Language Processing (NLP)
+*Predictive modeling
+*Classification tasks
+*Regression analysis
+*Clustering algorithms
+*Natural Language Processing (NLP)
 
 Each project is meticulously crafted to demonstrate the application of ML algorithms in solving real-world problems and extracting valuable insights from data.
 
