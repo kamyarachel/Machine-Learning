@@ -10,7 +10,7 @@ Classification tasks
 Regression analysis
 Clustering algorithms
 Natural Language Processing (NLP)
-Computer Vision
+
 Each project is meticulously crafted to demonstrate the application of ML algorithms in solving real-world problems and extracting valuable insights from data.
 
 🔍 Advanced Techniques:
